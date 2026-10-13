@@ -1,0 +1,4 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string name="accessibility_service_description">Allows you to control your phone using hand gestures (swipes, pinch, fist) recognized by the camera. The camera is only active when you explicitly start the service in the app.</string>
+</resources>
